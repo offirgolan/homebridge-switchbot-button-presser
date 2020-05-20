@@ -1,5 +1,4 @@
 {
-  "private": true,
   "displayName": "Homebridge Switchbot Button Presser",
   "name": "homebridge-switchbot-button-presser",
   "version": "0.1.0",
