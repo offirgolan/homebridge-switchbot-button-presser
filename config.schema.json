@@ -1,0 +1,26 @@
+{
+  "pluginAlias": "SwitchBotButtonPresser",
+  "pluginType": "accessory",
+  "singular": false,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "title": "Name",
+        "type": "string",
+        "required": true
+      },
+      "macAddress": {
+        "title": "MAC Address",
+        "type": "string",
+        "required": true
+      },
+      "stateful": {
+        "title": "Stateful",
+        "type": "boolean",
+        "required": false,
+        "default": false
+      }
+    }
+  }
+}
