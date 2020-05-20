@@ -1,7 +1,7 @@
 {
   "displayName": "Homebridge Switchbot Button Presser",
   "name": "homebridge-switchbot-button-presser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Homebridge integration for the SwitchBot Button Presser",
   "main": "dist/accessory.js",
   "scripts": {
